@@ -12,4 +12,5 @@ This is done so the master branch can be used as the main branch.
 ## Contributors
 
 - **Jonathan Wrona**, Developer -- [Github](https://github.com/jonwrona)
-- **Zak Crapo**, Visual Designer
+- **Zak Crapo**, Visual Designer -- [Github](https://github.com/zakcrapo)
+- **Policarp Quarcoo**, Developer -- [Github](https://github.com/pquarme)

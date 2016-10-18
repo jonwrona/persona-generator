@@ -123,4 +123,26 @@ table {
   border-spacing: 0; }
 
 .title {
-  color: blue; }
+  font-family: 'Permanent Marker', cursive;
+  font-size: 5em;
+  color: #D77A61; }
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 0.5em;
+  color: #EFF1F3;
+  font-size: 1.2em; }
+
+body,
+html {
+  height: 100%;
+  background-color: #223843; }
+
+.flex-container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center; }
+  .flex-container * {
+    text-align: center; }
